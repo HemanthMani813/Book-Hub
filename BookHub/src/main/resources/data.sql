@@ -4,6 +4,7 @@ insert into publisher (publisherName) VALUES ('Knopf Canada');
 insert into publisher (publisherName) VALUES ('Simon & Schuster');
 insert into publisher (publisherName) VALUES ('Penguin Random House');
 insert into publisher (publisherName) VALUES ('Viking Press');
+insert into publisher (publisherName) VALUES ('HM Press');
 
 insert into author(authorName) values('J.K.Rowling');
 insert into author(authorName) values('Larry Niven');
@@ -12,6 +13,7 @@ insert into author(authorName) values('Stephen King');
 insert into author(authorName) values('Peter Straub');
 insert into author(authorName) values('Chetan Bhagat');
 insert into author(authorName) values('Rhonda Byrne');
+insert into author(authorName) values('Hemanth Mani');
 
 insert into book (name, imageUrl, publisherId) VALUES ('Harry Potter and the Sorcerer''s Stone', 'harry_potter_and_the_sorcerers_stone.jpg', 1);
 insert into book (name, imageUrl, publisherId) VALUES ('The Mote in Gods Eye', 'mote_in_gods_eye.jpg', 3);
